@@ -1,0 +1,15 @@
+C:\Users\hcaetano\Desktop\HWID\HWID\HWID\bin\Debug\HWID.exe.config
+C:\Users\hcaetano\Desktop\HWID\HWID\HWID\bin\Debug\HWID.exe
+C:\Users\hcaetano\Desktop\HWID\HWID\HWID\bin\Debug\HWID.pdb
+C:\Users\hcaetano\Desktop\HWID\HWID\HWID\obj\Debug\HWID.csproj.AssemblyReference.cache
+C:\Users\hcaetano\Desktop\HWID\HWID\HWID\obj\Debug\HWID.csproj.CoreCompileInputs.cache
+C:\Users\hcaetano\Desktop\HWID\HWID\HWID\obj\Debug\HWID.exe
+C:\Users\hcaetano\Desktop\HWID\HWID\HWID\obj\Debug\HWID.pdb
+C:\Users\Furllan\Desktop\Projetos C#\HWID2\HWID\HWID\bin\Debug\HWID.exe.config
+C:\Users\Furllan\Desktop\Projetos C#\HWID2\HWID\HWID\bin\Debug\HWID.exe
+C:\Users\Furllan\Desktop\Projetos C#\HWID2\HWID\HWID\bin\Debug\HWID.pdb
+C:\Users\Furllan\Desktop\Projetos C#\HWID2\HWID\HWID\obj\Debug\HWID.csproj.AssemblyReference.cache
+C:\Users\Furllan\Desktop\Projetos C#\HWID2\HWID\HWID\obj\Debug\HWID.csproj.SuggestedBindingRedirects.cache
+C:\Users\Furllan\Desktop\Projetos C#\HWID2\HWID\HWID\obj\Debug\HWID.csproj.CoreCompileInputs.cache
+C:\Users\Furllan\Desktop\Projetos C#\HWID2\HWID\HWID\obj\Debug\HWID.exe
+C:\Users\Furllan\Desktop\Projetos C#\HWID2\HWID\HWID\obj\Debug\HWID.pdb
